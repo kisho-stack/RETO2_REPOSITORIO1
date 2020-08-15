@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# no subir el repositorio enviroment1
+enviroment1
