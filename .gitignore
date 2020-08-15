@@ -129,4 +129,4 @@ dmypy.json
 .pyre/
 
 # no subir el repositorio enviroment1
-.enviroment1/
+enviroment1/*
